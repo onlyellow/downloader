@@ -1,2 +1,2 @@
 # downloader
-multi thread for distributed downloader
+multi threads for distributed downloader 
